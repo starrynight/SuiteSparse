@@ -9,7 +9,7 @@ Only those libraries required by Julia have been modified.
 2. Metis has been compiled as shared library (make config shared=1) and is copied to "lib" folder. 
     If using Metis 5.x, must apply patch on CHOLMOD/Partition/cholmod_metis.c, to replace 'idx_type' with 'idx_t'
 
-## Compileing sequence:
+## Compiling sequence:
 1. suitesparseconfig
 2. AMD, CAMD, COLAMD, CCOLAMD
 3. CHOLMOD
