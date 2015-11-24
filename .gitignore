@@ -1,0 +1,4 @@
+# only exclude output file
+# *.so library files will be backed up at github
+*.o
+*.tar.gz

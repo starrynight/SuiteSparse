@@ -1,0 +1,7 @@
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/cmpfillin.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/gpmetis.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/graphchk.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/m2gmetis.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/libmetis/CMakeFiles/metis.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/mpmetis.dir
+/media/hdd0/Sources/SuiteSparse/metis-5.1.0/build/Linux-x86_64/programs/CMakeFiles/ndmetis.dir
