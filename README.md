@@ -10,7 +10,7 @@ Only those libraries required by Julia have been modified.
     If using Metis 5.x, must apply patch on CHOLMOD/Partition/cholmod_metis.c, to replace 'idx_type' with 'idx_t'
 
 ## Compiling sequence:
-1. suitesparseconfig
+1. SuiteSparse_config
 2. AMD, CAMD, COLAMD, CCOLAMD
 3. CHOLMOD
 4. SPQR
